@@ -1,43 +1,38 @@
-Docker Projects
+# My Docker Projects
 
-This repository contains all of my Docker-related work, including projects completed as part of my coursework at Western Governors University (WGU) and personal experiments using containerized development and deployment.
+This repository contains my hands-on project work involving Docker and containerization. It reflects my skills in building and deploying containerized applications, configuring Dockerfiles, and managing containers as part of real-world software development workflows.
 
-Project Summary
+## Project Summary
 
-The purpose of this repository is to demonstrate my understanding of Docker and containerization by showcasing projects where Docker is used to build, run, and deploy applications in isolated environments. These projects highlight best practices in creating Dockerfiles, managing containers, and integrating Docker with backend and full-stack applications.
+The goal of this repository is to showcase my practical experience using Docker to containerize and deploy backend and full-stack applications. This includes working with Dockerfiles, multistage builds, container networking, and cloud deployment readiness.
 
-Key Components
-	•	D387 – Spring Boot & Angular Application
-A full-stack application containerized using Docker, demonstrating:
-	•	Spring Boot backend + Angular frontend
-	•	Internationalization and timezone features
-	•	Multithreaded backend processing
-	•	Dockerfile setup and image creation
-	•	Container testing and documentation
-	•	[Other Future Projects]
-Additional experiments or apps using:
-	•	Docker Compose
-	•	Multi-stage builds
-	•	Container orchestration (planned)
+## Key Components
 
-Functionality
-	•	Build and run Spring Boot applications in Docker containers
-	•	Connect containerized applications to MySQL databases
-	•	Implement timezone-aware services and multithreaded responses
-	•	Prepare Docker images for deployment to cloud platforms
+- Dockerfile creation and optimization  
+- Building and running Docker containers  
+- Connecting Spring Boot apps to MySQL in containers  
+- Managing containerized frontend and backend services  
+- Multithreading and timezone-aware services inside containers  
+- Writing deployment-ready Docker documentation  
+- Cloud deployment prep and testing in containerized environments  
 
-Tools Used
-	•	Docker & Docker CLI
-	•	Spring Boot
-	•	Angular
-	•	MySQL
-	•	Git & GitHub
-	•	IntelliJ IDEA / VS Code
-	•	Linux Bash / macOS Terminal
+## Tools Used
 
-What I Learned
-	•	Writing Dockerfiles for Java and full-stack apps
-	•	Managing container lifecycles and networking
-	•	Debugging containerized applications
-	•	Deploying consistent dev environments with Docker
-	•	Documenting Docker workflows for reproducibility
+- Docker & Docker CLI  
+- Java 17 / Spring Boot  
+- Angular (for full-stack projects)  
+- MySQL / MySQL Workbench  
+- Git (Command Line)  
+- GitHub  
+- IntelliJ IDEA (Ultimate Edition)  
+- VS Code (for Dockerfile + Markdown)  
+
+## What I Learned
+
+- How to write clean and efficient Dockerfiles  
+- Running and managing multi-container setups  
+- Building Spring Boot applications for containerized environments  
+- Handling network configuration and database links in Docker  
+- Debugging issues in containerized applications  
+- Preparing apps for cloud deployment using Docker  
+- Documenting container workflows clearly and effectively  
